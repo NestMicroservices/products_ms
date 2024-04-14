@@ -4,7 +4,7 @@
 /build
 
 # dotenv environment variable files
-.env
+.env*
 
 # IDE - VSCode
 .vscode/*
